@@ -1,0 +1,11 @@
+body {
+  padding-left: 5%;
+  margin: 0;
+  padding-top: 5%;
+}
+
+.inputBox {
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+}

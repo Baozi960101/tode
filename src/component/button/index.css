@@ -1,0 +1,24 @@
+.mainBox {
+  box-sizing: border-box;
+  padding: 1%;
+  box-sizing: border-box;
+  margin: 2% 0 2% 0;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+.ButtomBox {
+  display: flex;
+  justify-content: space-between;
+  width: 120px;
+}
+.falseColor {
+  color: red;
+}
+.trueColor {
+  color: blue;
+}
+.falseContent {
+  text-decoration: line-through;
+}
